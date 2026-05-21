@@ -1,0 +1,27 @@
+# Environment files
+.env
+.env.local
+
+# Uploads (user files)
+uploads/
+Complaint_Portal/uploads/
+admin_module/uploads/
+user_module/uploads/
+dept_module/uploads/
+
+# IDE & OS
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Dependencies (if any local composer installs)
+vendor/composer.lock
+
+# Logs
+*.log
+
+# Sensitive files
+db.php (will be configured per environment)
