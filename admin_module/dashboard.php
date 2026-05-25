@@ -33,7 +33,7 @@ $profile_image = "image/adminProfile.png";
     header {
       height: 12vh;
       width: 100%;
-      background: black;
+      background: linear-gradient(90deg, #4b79a1, #283e51);
       color: white;
       display: flex;
       justify-content: space-between;
