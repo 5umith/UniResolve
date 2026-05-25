@@ -45,7 +45,7 @@ $admin_name = $_SESSION['username'];
       height: 13vh;
       width: 100%;
       /* background: linear-gradient(90deg, #3E2A63 0%, #0E5C56 100%);  */
-      background: linear-gradient(90deg, #020267ff 0%, #03bfafff 100%);
+      background: black;
       /* background: linear-gradient(90deg, #7e4d04ff 0%,  #e3e84bff 100%);  */
       color: #FFFFFF;
       /* white text on dark header */
