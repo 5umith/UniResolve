@@ -32,7 +32,7 @@ $admin_name = $_SESSION['username'];
       margin: 0;
       box-sizing: border-box;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: pink;
+      background-color: #0B1220;
       /* deep charcoal from first.css */
       color: #E5E7EB;
       /* light gray text */

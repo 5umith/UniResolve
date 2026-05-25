@@ -1,0 +1,19 @@
+[33mcommit eb5d79380077157662d09bda5068aea5fdb8f82b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 5umith <139529700+5umith@users.noreply.github.com>
+Date:   Mon May 25 20:24:45 2026 +0530
+
+    done
+
+[1mdiff --git a/admin_module/ad_dashboard.php b/admin_module/ad_dashboard.php[m
+[1mindex 2d11ccc..c85d50e 100644[m
+[1m--- a/admin_module/ad_dashboard.php[m
+[1m+++ b/admin_module/ad_dashboard.php[m
+[36m@@ -32,7 +32,7 @@[m [m$admin_name = $_SESSION['username'];[m
+       margin: 0;[m
+       box-sizing: border-box;[m
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;[m
+[31m-      background-color: #0B1220;[m
+[32m+[m[32m      background-color: pink;[m
+       /* deep charcoal from first.css */[m
+       color: #E5E7EB;[m
+       /* light gray text */[m
